@@ -26,9 +26,9 @@
 ---
 
 ## 🌍 Idiomas
-- 🇪🇸 Castellano (Nativo)  
-- 🏴 Catalán  
-- 🇬🇧 Inglés  
+- Castellano (Nativo)  
+- Catalán  
+- Inglés  
 
 ---
 
