@@ -109,6 +109,8 @@
 
 [Site de projectes](https://sites.google.com/mataro.epiaedu.cat/projectes-smx2-2025-26/p%C3%A0gina-principal?)
 
+[cfgm2smxb14-14 = Jhon Justiniano](https://drive.google.com/drive/folders/1eA59B02wFSTTTlxV5fGFDGHvCrzou-QE?usp=sharing)
+
 ---
 
 # Projecte 1 - Arrenquem 
