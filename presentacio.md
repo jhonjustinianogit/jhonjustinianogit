@@ -83,3 +83,32 @@
 - 🏴 Catalán (Nivel B2)
 - 🇬🇧 Inglés (Nivel A2)
 
+--
+
+# Índice 
+
+
+
+
+
+# Projecte 1 - Arrenquem 
+
+**El repte d’aquest primer projecte**
+En aquest primer projecte no volem que construïu encara un producte final complet. El nostre objectiu no és obtenir ja una web acabada, un servei desplegat o un sistema completament configurat. Encara heu d’aprendre molt. 
+**Això vindrà més endavant.**
+
+El que volem ara és que aprengueu a treballar com es fa en una empresa professional. Això vol dir:
+- Aplicar una metodologia de treball clara i rigorosa.
+- Aprendre a organitzar-vos i repartir tasques amb Kanban, un sistema visual que permet veure l’estat de cada activitat i que treballarem amb eines digitals com Microsoft Planner.
+- Entendre que la feina s’ha de fer de manera metòdica, organitzada i constant.
+
+Per tant, el veritable producte d’aquest projecte no és tant el resultat tècnic, sinó el vostre aprenentatge en metodologia professional i treball en equip.
+
+
+
+
+
+
+
+
+
