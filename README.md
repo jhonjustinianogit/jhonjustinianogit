@@ -79,3 +79,5 @@ Soy un joven trabajador, respetuoso con buenos modales, puntual, con buena actit
 - Castellano (Nativo)
 - Catalán (Nivel B2)
 - Inglés (Nivel A2)
+
+[resentacio.md](presentacio.md)
