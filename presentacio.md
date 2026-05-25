@@ -5,6 +5,7 @@
 # Índice 
 
 - Jhon Justiniano
+- Site de projectes
 - Projecte 1 - Arrenquem
 - Projecte 2. Consultoria EverPia
 - Projecte 3: Everpia II. Sobreviure en una empresa IT
@@ -103,6 +104,10 @@
 - 🇬🇧 Inglés (Nivel A2)
 
 ---
+
+# Site de projectes
+
+[Site de projectes](https://sites.google.com/mataro.epiaedu.cat/projectes-smx2-2025-26/p%C3%A0gina-principal?)
 
 # Projecte 1 - Arrenquem 
 
