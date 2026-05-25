@@ -87,9 +87,9 @@
 
 # Índice 
 
-- [Projecte 1 -Arrenquem](#Projecte1-Arrenquem)
+- [Projecte 1 - Arrenquem](#Projecte1-Arrenquem)
 
-
+- [Projecte 2. Consultoria EverPia](#Projecte2.ConsultoriaEverPia)
 
 # Projecte 1 - Arrenquem 
 
@@ -108,6 +108,11 @@ Per tant, el veritable producte d’aquest projecte no és tant el resultat tèc
 ### Enlaces
 
 [Projecte 1 - Arrenquem](https://drive.google.com/drive/folders/16WX-qNQVO99EfV_G0ZUxBy6zQNK0VbTC?usp=sharing)
+
+---
+
+# Projecte 2. Consultoria EverPia
+
 
 
 
