@@ -83,6 +83,6 @@
 - 🏴 Catalán (Nivel B2)
 - 🇬🇧 Inglés (Nivel A2)
 
-📄 [presentacio.md](presentacio.md)
+---
 
 [resentacio.md](presentacio.md)
