@@ -1,83 +1,88 @@
-# Jhon Justiniano
+# 👨‍💻 Jhon Justiniano
 
 📍 Mataró - Barcelona  
 📅 24/04/2008  
 
-## ACERCA DE MÍ
+## 🙋‍♂️ ACERCA DE MÍ
 
-Soy un joven trabajador, respetuoso con buenos modales, puntual, con buena actitud, responsable, me adapto facilmente a las personas y al ritmo del trabajo. Disfruto de mi personalidad amable y sobre todo siempre intento mejorar día a día.
+💪 Soy un joven trabajador, respetuoso y con buenos modales.  
+⏰ Puntual, con buena actitud y responsable.  
+🤝 Me adapto fácilmente a las personas y al ritmo del trabajo.  
+😊 Disfruto de mi personalidad amable y, sobre todo, 🚀 siempre intento mejorar día a día.
 
 ---
 
-## CONTACTO
+## 📞 CONTACTO
 
-- 📞 +34 641 94 08 03
-- ✉️ jhonjustinianoanderprado@gmail.com
+- 📱 +34 641 94 08 03
+- 📧 jhonjustinianoanderprado@gmail.com
 - 💻 https://github.com/jhonjustinianogit
 
 ---
 
-## FORMACIÓN
+## 🎓 FORMACIÓN
 
-### Educación Secundaria Obligatoria (ESO)
+### 🏫 Educación Secundaria Obligatoria (ESO)
 **Escola Pia Mataró (2024)**
 
-### 1er - GM Sistemas Microinformáticos y Redes
+### 💻 1er - GM Sistemas Microinformáticos y Redes
 **Escola Pia Mataró (2024-2025)**
 
-#### Asignaturas:
-- Inglés profesional
-- Aplicaciones ofimáticas
-- Digitalización aplicada a los sectores productivos
-- Itinerario personal para ocupabilidad I
-- Montaje y mantenimiento de equipos
-- Sistemas operativos
-- Redes locales
-- Módulo profesional aplicación webs
+#### 📚 Asignaturas:
+- 🇬🇧 Inglés profesional
+- 📝 Aplicaciones ofimáticas
+- 🌐 Digitalización aplicada a los sectores productivos
+- 💼 Itinerario personal para ocupabilidad I
+- 🖥️ Montaje y mantenimiento de equipos
+- ⚙️ Sistemas operativos
+- 📡 Redes locales
+- 🌍 Módulo profesional aplicación webs
 
-### 2do - GM Sistemas Microinformáticos y Redes
+### 🖥️ 2do - GM Sistemas Microinformáticos y Redes
 **Escola Pia Mataró (2025-2026) “Actual”**
 
-#### Asignaturas:
-- Aplicaciones webs
-- Itinerario personal para ocupabilidad II
-- Proyecto intermodular
-- Seguridad informática
-- Servicios de redes
-- Sistemas operativos en redes
-- Sostenibilidad aplicada a los sectores productivos
+#### 📚 Asignaturas:
+- 🌐 Aplicaciones webs
+- 💼 Itinerario personal para ocupabilidad II
+- 📂 Proyecto intermodular
+- 🔐 Seguridad informática
+- 📡 Servicios de redes
+- ⚙️ Sistemas operativos en redes
+- 🌱 Sostenibilidad aplicada a los sectores productivos
 
 ---
 
-## EXPERIENCIA
+## 💼 EXPERIENCIA
 
-### Servicio Comunitario Proyecto “Internet Segura de Tu a Tu”
+### 👮‍♂️ Servicio Comunitario Proyecto “Internet Segura de Tú a Tú”
 **Mossos D’Esquadra - Generalidad (2024)**
 
-### Prácticas de Sistemas Microinformáticos y Redes
+### 🖥️ Prácticas de Sistemas Microinformáticos y Redes
 **QuickTR (2025 - 2026)**
 
 ---
 
-## HABILIDADES
+## ⭐ HABILIDADES
 
-- Actitud
-- Compromiso
-- Responsabilidad
-- Trabajo en equipo
-- Adaptabilidad
-- Iniciativa
-- Perseverancia
-- Buena comunicación
-- Resolución de problemas
-- Respetuoso
+- 💪 Actitud
+- 🤝 Compromiso
+- 📌 Responsabilidad
+- 👥 Trabajo en equipo
+- 🔄 Adaptabilidad
+- 🚀 Iniciativa
+- 🎯 Perseverancia
+- 🗣️ Buena comunicación
+- 🛠️ Resolución de problemas
+- 🙌 Respetuoso
 
 ---
 
-## IDIOMAS
+## 🌍 IDIOMAS
 
-- Castellano (Nativo)
-- Catalán (Nivel B2)
-- Inglés (Nivel A2)
+- 🇪🇸 Castellano (Nativo)
+- 🏴 Catalán (Nivel B2)
+- 🇬🇧 Inglés (Nivel A2)
+
+📄 [presentacio.md](presentacio.md)
 
 [resentacio.md](presentacio.md)
