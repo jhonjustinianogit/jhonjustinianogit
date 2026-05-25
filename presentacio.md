@@ -109,6 +109,8 @@
 
 [Site de projectes](https://sites.google.com/mataro.epiaedu.cat/projectes-smx2-2025-26/p%C3%A0gina-principal?)
 
+---
+
 # Projecte 1 - Arrenquem 
 
 <img width="365" height="190" alt="image" src="https://github.com/user-attachments/assets/1ad94616-63c4-4a47-bc08-fa0ca9741836" />
