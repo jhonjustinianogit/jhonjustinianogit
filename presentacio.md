@@ -1,7 +1,21 @@
-# Prova final individual de defensa del projecte davant del tribunal
+# Prova final individual de defensa del projecte davant del tribunal: Jhon Justiniano
 
 <img width="754" height="495" alt="image" src="https://github.com/user-attachments/assets/f821614d-52a3-486c-acb6-068a34c59379" />
 
+# Índice 
+
+- Jhon Justiniano
+- Projecte 1 - Arrenquem
+- Projecte 2. Consultoria EverPia
+- Projecte 3: Everpia II. Sobreviure en una empresa IT
+- Projecte 4: Everpia III. Desafiament Final
+- Projecte 5: La incubadora
+- Projecte 6: Projecte Nexus
+- Projecte 7: Client FoodLogistic S.A.
+- Projecte 8. Connecta't al Futur: El repte de la digitalització real
+- Otras cosas en Gitgub relativas al curso
+
+--- 
 
 # 👨‍💻 Jhon Justiniano
 
@@ -87,20 +101,6 @@
 - 🇪🇸 Castellano (Nativo)
 - 🏴 Catalán (Nivel B2)
 - 🇬🇧 Inglés (Nivel A2)
-
---
-
-# Índice 
-
-- Jhon Justiniano
-- Projecte 1 - Arrenquem
-- Projecte 2. Consultoria EverPia
-- Projecte 3: Everpia II. Sobreviure en una empresa IT
-- Projecte 4: Everpia III. Desafiament Final
-- Projecte 5: La incubadora
-- Projecte 6: Projecte Nexus
-- Projecte 7: Client FoodLogistic S.A.
-- Projecte 8. Connecta't al Futur: El repte de la digitalització real
 
 ---
 
