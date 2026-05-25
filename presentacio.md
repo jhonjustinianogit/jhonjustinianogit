@@ -122,6 +122,8 @@ Per tant, el veritable producte d’aquest projecte no és tant el resultat tèc
 
 ### Enlaces
 
+[Projecte 1 - Arrenquem-Enunciado](https://docs.google.com/document/d/1jDWEedM7QYOM9GDpSKxQYTwa1-SNoTe4/edit)
+
 [Projecte 1 - Arrenquem-Drive](https://drive.google.com/drive/folders/16WX-qNQVO99EfV_G0ZUxBy6zQNK0VbTC?usp=sharing)
 
 [Projecte 1 - Arrenquem-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=10741)
@@ -143,6 +145,8 @@ Cada client té les seves necessitats concretes i, sovint, semblen projectes inc
 Però no us enganyeu: el que realment us demanem és capacitat d’adaptació, visió global i organització.
 
 ### Enlaces
+
+[Projecte 2. Consultoria EverPia-Enunciado](https://docs.google.com/document/d/1T-ZolnNG4M_l87NFgdeywkjHU5JEy2Zk/edit)
 
 [Projecte 2. Consultoria EverPia-Drive](https://drive.google.com/drive/folders/1ftyFJoXStBQj9fFso4EYQ6Mfgl294sjP?usp=sharing)
 
@@ -185,6 +189,8 @@ Els servidors cremen i vosaltres sou els bombers digitals.
 
 ### Enlaces
 
+[Projecte 3: Everpia II. Sobreviure en una empresa IT-Enunciado](https://docs.google.com/document/d/1pmPUfepamfRqLaISejMKvwlwHOt5WVmh/edit)
+
 [Projecte 3: Everpia II. Sobreviure en una empresa IT-Drive](https://drive.google.com/drive/folders/1-BoDjTj0O5L6lUly2fYYHc9NUC79kO5T?usp=sharing)
 
 [Projecte 3: Everpia II. Sobreviure en una empresa IT-Markdown](https://github.com/jhonjustinianogit/Projecte-3)
@@ -204,6 +210,8 @@ El repte es divideix en un bloc tècnic i un bloc creatiu. A nivell tècnic, es 
 El projecte també incorpora criteris de sostenibilitat i economia circular. Finalment, l’alumne lliura una carpeta professional amb tots els serveis configurats, informes tècnics, prototips i documentació, demostrant que està preparat per afrontar reptes reals del món IT.
 
 ### Enlaces
+
+[Projecte 4: Everpia III. Desafiament Final-Enunciado](https://docs.google.com/document/d/1VulXbtUf8-QMwnKRvd_sY5IVLjWcDqXs/edit)
 
 [Projecte 4: Everpia III. Desafiament Final-Drive](https://drive.google.com/drive/folders/1M4U6QBMpfe0Vni5pKnv1Dy84Sd6h35qM?usp=sharing)
 
@@ -230,6 +238,8 @@ Perquè aquesta és la idea: deixar de treballar només com a estudiants i comen
 - i un equip que pugui defensar que és capaç d’executar-la.
 
 ### Enlaces
+
+[Projecte 5: La incubadora-Enunciado](https://docs.google.com/document/d/1_8Tt_eRl6O6JmPEjX-yZ1EoPQcA4MRjU/edit)
 
 [Projecte 5: La incubadora-Drive](https://drive.google.com/drive/folders/1oa4O3PjFTO1if4Ih2uFfj-7LZcoLE9Mh?usp=sharing)
 
@@ -261,6 +271,8 @@ Per aquest motiu, Projecte Nexus encarrega al vostre equip tècnic (vosaltres) l
 
 ### Enlaces
 
+[Projecte 6: Projecte Nexus-Enunciado](https://docs.google.com/document/d/1dyntLKYDdo1CpgM7ZmHbXXD5VhMYAe9-/edit)
+
 [Projecte 6: Projecte Nexus-Drive](https://drive.google.com/drive/folders/1EPcwVonfN9OBnJWZFDAMKqFmOuJXxUQB?usp=sharing)
 
 [Projecte 6: Projecte Nexus-Markdown](https://github.com/jhonjustinianogit/projecte6-jhonjustinianogit)
@@ -280,6 +292,8 @@ El client necessita millores en quatre àrees principals: implementar servidors 
 A més, totes les propostes s’han de presentar en una memòria tècnica amb documentació, proves de concepte i un repositori organitzat. També cal elaborar un pressupost complet amb costos d’implantació, manteniment i suport, així com un calendari detallat del desplegament utilitzant eines de gestió i planificació com diagrames de Gantt o Planner.
 
 ### Enlaces
+
+[Projecte 7: Client FoodLogistic S.A.-Enunciado](https://docs.google.com/document/d/1-bj8wLEwN5CsDi72T5YBS2x--U9V90SN/edit)
 
 [Projecte 7: Client FoodLogistic S.A.-Drive](https://drive.google.com/drive/folders/1FqWCNBHIiLaCHpDl0cskVd0LEIZ0MPR4?usp=sharing)
 
@@ -316,6 +330,8 @@ Aquest projecte és l'oportunitat ideal per posar en pràctica tot el que heu ap
 
 ### Enlaces
 
+[Projecte 8. Connecta't al Futur: El repte de la digitalització real-Enunciado](https://github.com/SMX2n/Projecte8_Enunciat)
+
 [Projecte 8. Connecta't al Futur: El repte de la digitalització real-Drive](https://drive.google.com/drive/folders/17XHHqdtGsCGYK4R__0uRma48cwVaDk9L?usp=sharing)
 
 FALTA EL GITGUB.
@@ -323,7 +339,7 @@ FALTA EL GITGUB.
 [Projecte 8. Connecta't al Futur: El repte de la digitalització real-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=12235)
 
 
-
+---
 
 # Otras cosas en Gitgub relativas al curso
 
