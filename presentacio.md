@@ -95,6 +95,7 @@
 
 **El repte d’aquest primer projecte**
 En aquest primer projecte no volem que construïu encara un producte final complet. El nostre objectiu no és obtenir ja una web acabada, un servei desplegat o un sistema completament configurat. Encara heu d’aprendre molt. 
+
 **Això vindrà més endavant.**
 
 El que volem ara és que aprengueu a treballar com es fa en una empresa professional. Això vol dir:
@@ -103,6 +104,18 @@ El que volem ara és que aprengueu a treballar com es fa en una empresa professi
 - Entendre que la feina s’ha de fer de manera metòdica, organitzada i constant.
 
 Per tant, el veritable producte d’aquest projecte no és tant el resultat tècnic, sinó el vostre aprenentatge en metodologia professional i treball en equip.
+
+### Enlaces
+
+[Projecte 1 - Arrenquem](https://drive.google.com/drive/folders/16WX-qNQVO99EfV_G0ZUxBy6zQNK0VbTC?usp=sharing)
+
+
+
+
+
+
+
+
 
 
 
