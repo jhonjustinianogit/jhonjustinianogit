@@ -343,7 +343,7 @@ Aquest projecte és l'oportunitat ideal per posar en pràctica tot el que heu ap
 
 [Projecte 8. Connecta't al Futur: El repte de la digitalització real-Drive](https://drive.google.com/drive/folders/17XHHqdtGsCGYK4R__0uRma48cwVaDk9L?usp=sharing)
 
-FALTA EL GITGUB.
+[Projecte 8. Connecta't al Futur: El repte de la digitalització real-Markdown](https://github.com/jhonjustinianogit/projecte-8-jhonjustinianogit) 
 
 [Projecte 8. Connecta't al Futur: El repte de la digitalització real-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=12235)
 
