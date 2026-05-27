@@ -15,6 +15,7 @@
 - Projecte 7: Client FoodLogistic S.A.
 - Projecte 8. Connecta't al Futur: El repte de la digitalització real
 - Otras cosas en Gitgub relativas al curso
+- Conclusiones
 
 --- 
 
@@ -360,6 +361,10 @@ Aquest projecte és l'oportunitat ideal per posar en pràctica tot el que heu ap
 
 ---
 
-<img width="745" height="498" alt="image" src="https://github.com/user-attachments/assets/50b933ba-4f47-4358-96e2-b3b129db4ef4" />
+# Conclusiones
+En este apartado se explica lo no solo lo que se ha aprendido en todo el curso si no lo que se ha aprendido durante todo el grado.
 
+---
+
+<img width="745" height="498" alt="image" src="https://github.com/user-attachments/assets/50b933ba-4f47-4358-96e2-b3b129db4ef4" />
 
